@@ -193,6 +193,7 @@ With Git/ Github there are many possible ways to do stuff and to reach your goal
  * working locally and commiting to a remote version later on (when you are done) is the safest way to work
  * try to commit as small chunks of work as possible
  * document your work/ the projects work in a readme
+ * never commit results of dependencies into the dependent file, but in the generating file
  * uvm.
  * What would seem important to you as for right now?
  
